@@ -11,11 +11,12 @@ import Footer from "../Footer";
 function PricingPage() {
   return (
     <>
+      <Navbar />
       <Hero />
       <LeftSection
         imageURL="media/images/kite.png"
-        productName="Kite"
-        productDesription="Our ultra-fast flagship trading platform with streaming market data, advanced charts, an elegant UI, and more. Enjoy the Kite experience seamlessly on your Android and iOS devices."
+        productName="Investa Pro"
+        productDesription="With real-time market data, advanced charting tools, and an elegant, user-friendly interface, Investa Pro is designed to elevate your trading experience. Whether you're a beginner or a seasoned investor, trade seamlessly across all devices—Android, iOS, and web."
         tryDemo=""
         learnMore=""
         googlePlay=""
@@ -23,14 +24,14 @@ function PricingPage() {
       />
       <RightSection
         imageURL="media/images/console.png"
-        productName="Console"
-        productDesription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
+        productName="Investa Console"
+        productDesription="Get a comprehensive view of your trades and investments with Investa Console. With detailed reports, visualizations, and powerful analytics, it’s your go-to tool to track performance and make informed decisions."
         learnMore=""
       />
       <LeftSection
         imageURL="media/images/coin.png"
-        productName="Coin"
-        productDesription="Buy direct mutual funds online, commission-free, delivered directly to your Demat account. Enjoy the investment experience on your Android and iOS devices."
+        productName="Investa Funds"
+        productDesription="Buy direct mutual funds effortlessly with Investa Funds. Enjoy a seamless, commission-free experience and have your investments delivered directly to your Demat account, accessible anytime via your Android, iOS, or web devices."
         tryDemo=""
         learnMore=""
         googlePlay=""
@@ -38,24 +39,24 @@ function PricingPage() {
       />
       <RightSection
         imageURL="media/images/kiteconnect.png"
-        productName="Kite Connect API"
-        productDesription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase."
+        productName="Investa Connect API"
+        productDesription="Leverage our simple HTTP/JSON APIs to build robust trading experiences. Whether you’re a startup or an established business, use Investa Connect to build your own investment app and connect with our growing client base."
         learnMore=""
       />
       <LeftSection
         imageURL="media/images/varsity.png"
-        productName="Varsity mobile"
-        productDesription="An easy to grasp, collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go."
+        productName="Investa Learn"
+        productDesription="Investa Learn offers bite-sized lessons, rich illustrations, and simple explanations to help you understand the stock market—anytime, anywhere. Perfect for beginners, our mobile-friendly format makes learning quick and engaging."
         tryDemo=""
         learnMore=""
         googlePlay=""
         appStore=""
       />
       <p className="text-center mt-5 mb-5">
-        Want to know more about our technology stack? Check out the Zerodha.tech
-        blog.
+        Want to Know More About Our Tech Stack?
       </p>
       <Universe />
+      <Footer />
     </>
   );
 }

@@ -7,7 +7,7 @@ function Hero() {
         <h1 className="fs-2 text-center">
           We pioneered the discount broking model in India
           <br />
-          Now, we are breaking ground with our technology.
+          and are now redefining the industry with advanced technology
         </h1>
       </div>
 
@@ -17,38 +17,43 @@ function Hero() {
       >
         <div className="col-6 p-5">
           <p>
-            We kick-started operations on the 15th of August, 2010 with the goal
-            of breaking all barriers that traders and investors face in India in
-            terms of cost, support, and technology. We named the company
-            Zerodha, a combination of Zero and "Rodha", the Sanskrit word for
-            barrier.
+            Launched in 2024, Investa was created with a vision to break down
+            the barriers faced by traders and investors in India, especially in
+            terms of cost, support, and technology. Our mission is to make
+            investing simpler, more transparent, and accessible for everyone.
           </p>
           <p>
-            Today, our disruptive pricing models and in-house technology have
-            made us the biggest stock broker in India.
+            With a fresh perspective on the industry, we’ve built a platform
+            that combines advanced technology with affordable pricing models.
+            Investa aims to offer an intuitive user experience that empowers
+            investors to make informed financial decisions with ease.
           </p>
           <p>
-            Over 1+ Crore clients place millions of orders every day through our
-            powerful ecosystem of investment platforms, contributing over 15% of
-            all Indian retail trading volumes.
+            Though we’re a new player in the market, our focus on transparency
+            and customer-centric features is designed to make a lasting impact.
+            Investa is here to change how the next generation of investors trade
+            and invest in India.
           </p>
         </div>
         <div className="col-6 p-5">
           <p>
-            In addition, we run a number of popular open online educational and
-            community initiatives to empower retail traders and investors.
+            In addition to our platform, Investa is committed to empowering
+            retail traders and investors through popular open online educational
+            initiatives and community-driven support. We believe in sharing
+            knowledge and fostering a learning environment for all.
           </p>
           <p>
             <a href="" style={{ textDecoration: "none" }}>
               Rainmatter
             </a>
-            , our fintech fund and incubator, has invested in several fintech
-            startups with the goal of growing the Indian capital markets.
+            our fintech fund and incubator, we invest in promising fintech
+            startups with the vision of expanding and enhancing the Indian
+            capital markets, ensuring a future of growth and innovation.
           </p>
           <p>
-            And yet, we are always up to something new every day. Catch up on
-            the latest updates on our blog or see what the media is saying about
-            us.
+            At Investa, we’re constantly exploring new ideas and improving our
+            platform. Stay updated with our latest developments on our blog, or
+            see what the media has to say about us.
           </p>
         </div>
       </div>

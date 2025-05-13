@@ -4,10 +4,9 @@ function Universe() {
   return (
     <div className="container mt-5">
       <div className="row text-center">
-        <h1>The Zerodha Universe</h1>
+        <h1>The Investa Ecosystem</h1>
         <p>
-          Extend your trading and investment experience even further with our
-          partner platforms
+          Take your trading and investing to the next level with our partner platforms and tools designed to enhance your overall financial journey.
         </p>
 
         <div className="col-4 p-3 mt-5">

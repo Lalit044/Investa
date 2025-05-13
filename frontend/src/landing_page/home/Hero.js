@@ -6,7 +6,7 @@ function Hero() {
             <div className='row text-center'>
                 <img src='media/images/homeHero.png' className='mb-5'/>
                 <h1 className='mt-5'>Invest in Everything</h1>
-                <p>Online platform to invest in stocks, derivatives, mutual funds</p>
+                <p>Your Gateway to Smart Investing – Explore Stocks, Derivatives, Mutual Funds, and More</p>
                 <button className='p-2 btn btn-primary fs-5' style={{width:"20%", margin: "0 auto"}}>Signup Now</button>
             </div>
         </div>

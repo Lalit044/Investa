@@ -8,8 +8,8 @@ function Awards() {
                     <img src='media/images/largestBroker.svg'/>
                 </div>
                 <div className='col-6 p-5 mt-3'>
-                    <h1>Largest Stock Broker in India</h1>
-                    <p className='mb-5'>2+ million Zerodha clients contribute to over 15% of all retail order volumes in India daily by trading and investing in:</p>
+                    <h1>Next-Gen Investment Trading Hub</h1>
+                    <p className='mb-5'>Investa aims to provide a diverse set of investment opportunities for users, facilitating easy access to financial markets. With over 2 million active users, our platform supports a wide array of investment options, including:</p>
                     <div className='row'>
                         <div className='col-6'>
                         <ul>
