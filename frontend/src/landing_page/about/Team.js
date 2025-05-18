@@ -15,6 +15,7 @@ function Team() {
           <img
             src="media/images/lalitSinghBani.jpg"
             style={{ borderRadius: "100%", width: "50%" }}
+            alt="Lalit Singh Bani"
           />
           <h4 className="mt-5">Lalit Singh Bani</h4>
           <h6>Co-Founder, CEO</h6>
@@ -31,34 +32,6 @@ function Team() {
             Lalit is committed to shaping the future of the investment landscape
             in India, ensuring that users can make smarter financial decisions
             with ease.
-          </p>
-        </div>
-      </div>
-
-      <div
-        className="row p-3 text-muted"
-        style={{ lineHeight: "1.8", fontSize: "1.2em" }}
-      >
-        <div className="col-6 p-3 text-center">
-          <img
-            src="media/images/kushagraNailwal.jpg"
-            style={{ borderRadius: "100%", width: "50%" }}
-          />
-          <h4 className="mt-5">Kushagra Nailwal</h4>
-          <h6>Co-Founder, CTO</h6>
-        </div>
-        <div className="col-6 p-3">
-          <p>
-            Kushagra co-founded Investa alongside Lalit, bringing his technical
-            expertise to create a platform that blends ease of use with robust
-            technology. With a strong background in development and engineering,
-            he focuses on building innovative features to provide a seamless
-            experience for all users.
-          </p>
-          <p>
-            As CTO, Kushagra plays a key role in ensuring the platform remains
-            reliable, secure, and scalable, helping shape the future of online
-            investing.
           </p>
         </div>
       </div>

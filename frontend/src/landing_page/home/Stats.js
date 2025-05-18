@@ -8,7 +8,7 @@ function Stats() {
                     <h1 className='fs-2 mb-5'>Trust with confidence</h1>
 
                     <h2 className='fs-4'>Customer-first always</h2>
-                    <p className='text-muted'>That's why over 2 million users trust Investa with their investments, managing assets in multiple categories and contributing to a growing share of daily retail trading volumes in India.</p>
+                    <p className='text-muted'>That's why users trust Investa with their investments, managing assets in multiple categories and contributing to a growing share of daily retail trading volumes in India.</p>
                     
                     <h2 className='fs-4'>No Gimmicks, No Spam</h2>
                     <p className='text-muted'>No unnecessary distractions, pop-ups, or fake incentives. Just a high-quality platform that lets you trade and invest at your own pace, the way you prefer.</p>
